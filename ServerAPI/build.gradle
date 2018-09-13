@@ -1,6 +1,6 @@
 dependencies {
     // Logback (used for configuration purposes only)
-    compile 'ch.qos.logback:logback-classic:1.1.5'
+    compile 'ch.qos.logback:logback-classic:1.2.3'
     // Used to simplify code creation
     compileOnly 'org.projectlombok:lombok:1.16.18'
     testCompileOnly 'org.projectlombok:lombok:1.16.18'
